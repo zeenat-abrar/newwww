@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 798.32 832.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ffc61b;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #f57f20;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="273.75" y1="770.34" x2="373.87" y2="770.34" gradientTransform="matrix(2.72, 0, 0, -2.72, -108.75, 2736.85)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e77024"/>
+      <stop offset="1" stop-color="#f27a21"/>
+    </linearGradient>
+  </defs>
+  <title>GoogleAnalytics</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-1" x="2.71" width="795.62" height="832.32"/>
+  </g>
+  <g id="GoogleAnalytics">
+    <path id="path4381" class="cls-2" d="M472.65,914.16H177.16A65.63,65.63,0,0,1,111.5,848.5V706.81a65.64,65.64,0,0,1,65.66-65.67H363.78V433.79a65.64,65.64,0,0,1,65.67-65.67H636.8V912.44H472.65Z" transform="translate(-111.5 -95.09)"/>
+    <path id="path4383" class="cls-3" d="M844.16,914.16H636.8V181.5a65.64,65.64,0,0,1,65.67-65.66H844.16a65.63,65.63,0,0,1,65.66,65.66v667c-1.72,36.29-31.1,65.66-65.66,65.66Z" transform="translate(-111.5 -95.09)"/>
+    <path id="path4390" class="cls-4" d="M908.1,641.14V848.5a65.63,65.63,0,0,1-65.67,65.66H635.08v-546Z" transform="translate(-111.5 -95.09)"/>
+  </g>
+</svg>

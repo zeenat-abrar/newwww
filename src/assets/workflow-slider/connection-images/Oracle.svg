@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 795.62 832.32">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #d02227;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 70px;
+      }
+    </style>
+  </defs>
+  <title>Oracle</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-1" width="795.62" height="832.32"/>
+  </g>
+  <g id="Oracle">
+    <g>
+      <rect class="cls-2" x="19.67" y="34.26" width="760.42" height="760.42"/>
+      <path class="cls-3" d="M623.05,690H404.23c-96.33,0-175.15-78.81-175.15-175.15h0c0-96.33,78.82-175.14,175.15-175.14H623.05c96.34,0,175.15,78.81,175.15,175.14h0C798.2,611.14,719.39,690,623.05,690Z" transform="translate(-114.21 -95.09)"/>
+    </g>
+  </g>
+</svg>

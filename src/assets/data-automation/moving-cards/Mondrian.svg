@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 795.62 832.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #63a04e;
+      }
+
+      .cls-3 {
+        fill: #46743f;
+      }
+
+      .cls-4 {
+        fill: #416e3f;
+      }
+    </style>
+  </defs>
+  <title>Mondrian</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-1" width="795.62" height="832.32"/>
+  </g>
+  <g id="Mondrian">
+    <g>
+      <path class="cls-2" d="M509.72,102.67l368.09,184V739.72L509.72,555.63Zm0,0" transform="translate(-114.21 -95.09)"/>
+      <path class="cls-3" d="M509.72,102.67l-368.1,184V739.72l368.1-184.09Zm0,0" transform="translate(-114.21 -95.09)"/>
+      <path class="cls-4" d="M877.81,739.72l-353.92,184-382.27-184,368.1-184.09Zm0,0" transform="translate(-114.21 -95.09)"/>
+    </g>
+  </g>
+</svg>

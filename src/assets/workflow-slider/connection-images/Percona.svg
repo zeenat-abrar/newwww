@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 795.65 832.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #fcb42d;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="3" y1="1024.51" x2="3" y2="1021.4" gradientTransform="matrix(256, 0, 0, -249.42, -255, 255659.13)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbb32d"/>
+      <stop offset="0.5" stop-color="#c12026"/>
+      <stop offset="1" stop-color="#c12026"/>
+    </linearGradient>
+  </defs>
+  <title>Percona</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-1" x="0.03" width="795.62" height="832.32"/>
+  </g>
+  <g id="Percona">
+    <g>
+      <path class="cls-2" d="M512,124.69c-219.71,0-397.82,173.53-397.82,387.6,0,133.91,69.7,252,175.68,321.58V512.49c0-.49-.07-1-.07-1.45s.07-1,.07-1.45v-2.73H290c2.18-124.77,100.5-225.27,221.67-225.27,122.54,0,221.88,102.73,221.88,229.45S634.2,740.49,511.66,740.49c-47.72,0-91.82-15.73-128-42.25V879.15A406.44,406.44,0,0,0,512,899.89c219.71,0,397.82-173.53,397.82-387.6S731.71,124.69,512,124.69" transform="translate(-114.18 -95.09)"/>
+      <path class="cls-3" d="M646.26,519.07A132.76,132.76,0,1,1,513.5,386.32,132.75,132.75,0,0,1,646.26,519.07" transform="translate(-114.18 -95.09)"/>
+    </g>
+  </g>
+</svg>

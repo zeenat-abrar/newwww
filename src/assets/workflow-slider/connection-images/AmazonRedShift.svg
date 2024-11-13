@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 795.62 832.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #215b99;
+      }
+
+      .cls-3 {
+        fill: #5295d0;
+      }
+
+      .cls-4 {
+        fill: #2f73b8;
+      }
+    </style>
+  </defs>
+  <title>AmazonRedShift</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-1" width="795.62" height="832.32"/>
+  </g>
+  <g id="AmazonRedShift">
+    <g id="REDSHIFT-2">
+      <path id="polygon25" class="cls-2" d="M828.32,214.23,512,290.77V731.45L828.32,808Z" transform="translate(-114.21 -95.09)"/>
+      <path id="polygon27" class="cls-3" d="M889,777.74l-60.85,30.44V214.23L889,244.67Z" transform="translate(-114.21 -95.09)"/>
+      <path id="polygon29" class="cls-3" d="M195.79,214.23,512,290.77V731.45L195.79,808Z" transform="translate(-114.21 -95.09)"/>
+      <path id="polygon31" class="cls-2" d="M135,777.74l60.77,30.44V214.23L135,244.67Z" transform="translate(-114.21 -95.09)"/>
+      <path id="polygon33" class="cls-3" d="M713.09,156.63l-120.15-60L555.25,491.72l37.69,435.69,120.15-60Z" transform="translate(-114.21 -95.09)"/>
+      <path id="polygon35" class="cls-2" d="M310.91,156.63l120.19-60,37.65,393.78-37.65,437-120.19-60Z" transform="translate(-114.21 -95.09)"/>
+      <path id="rect37" class="cls-4" d="M431.1,96.59H593.05V927.41H431.1Z" transform="translate(-114.21 -95.09)"/>
+    </g>
+  </g>
+</svg>

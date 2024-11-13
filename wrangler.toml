@@ -1,0 +1,10 @@
+name = "infoveave-website-dev"
+compatibility_date = "2024-07-29"
+compatibility_flags = ["nodejs_compat"]
+
+
+kv_namespaces = [
+  { binding = "METADATA_STORE", id = "0047925dcebd49b8abeacfb0544e1102" }
+]
+
+main = "dist/worker.js"
